@@ -81,7 +81,7 @@ button {
 }
 
 button:hover {
-    background: rgb(253, 253, 0);
+    background: rgb(255, 0, 0);
 }
 
 button span {
